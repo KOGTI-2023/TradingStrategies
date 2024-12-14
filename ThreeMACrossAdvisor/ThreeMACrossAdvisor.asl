@@ -1,0 +1,1 @@
+E:\Eigene Dateien\Dokumente\HeldenTraderPRO\My scripts\bin\Strategies\ThreeMACrossAdvisor.cs
