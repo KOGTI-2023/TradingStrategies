@@ -27,7 +27,6 @@ namespace ThreeMACrossAdvisor
         public ThreeMACrossAdvisor()
             : base()
         {
-            Credentials.Password = "66b4a6416f59370e942d353f08a9ae36";
             Credentials.ProjectName = "3MACrossAdvisor";
         }
 
