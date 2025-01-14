@@ -4,6 +4,7 @@ using TradeApi.Indicators;
 using Runtime.Script;
 using System.Drawing;
 using TradeApi.ToolBelt;
+using TradeApi.Trading;
 
 namespace SimpleMAStrategy
 {
